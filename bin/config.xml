@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<title>
+		<file filename="D:\Trader\bin\video\zztv2.mp4" />
+		<file filename="D:\Trader\bin\video\zztv1.mp4" />
+	</title>
+	<pagecontrol>
+		<page title="店内环境" visible="1" bgfilename="D:\Trader\bin\images\huanjing.jpg" />
+		<page title="特色餐品" visible="1" bgfilename="" />
+		<page title="今日特价" visible="0" bgfilename="" />
+		<page title="促销活动" visible="0" bgfilename="" />
+		<page title="电子优惠券" visible="0" bgfilename="" />
+	</pagecontrol>
+</root>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2013/09/11 09:29:21.351.dproj,C:\Users\OldHawk\Documents\RAD Studio\Projects\Project2.dproj=C:\Users\OldHawk\Documents\RAD Studio\Projects\Trader.dproj</Transaction>
+    <Transaction>2013/09/11 09:29:31.395.pas,C:\Users\OldHawk\Documents\RAD Studio\Projects\Unit2.pas=C:\Users\OldHawk\Documents\RAD Studio\Projects\fmMain.pas</Transaction>
+    <Transaction>2013/09/11 09:29:31.395.dfm,C:\Users\OldHawk\Documents\RAD Studio\Projects\Unit2.dfm=C:\Users\OldHawk\Documents\RAD Studio\Projects\fmMain.dfm</Transaction>
+    <Transaction>2013/09/11 09:30:01.693.pas,C:\Users\OldHawk\Documents\RAD Studio\Projects\fmMain.pas=D:\Trader\fmMain.pas</Transaction>
+    <Transaction>2013/09/11 09:30:01.693.dfm,C:\Users\OldHawk\Documents\RAD Studio\Projects\fmMain.dfm=D:\Trader\fmMain.dfm</Transaction>
+    <Transaction>2013/09/11 09:30:03.966.dproj,C:\Users\OldHawk\Documents\RAD Studio\Projects\Trader.dproj=D:\Trader\Trader.dproj</Transaction>
+    <Transaction>2013/09/12 16:48:39.749.pas,D:\Trader\Unit1.pas=D:\Trader\fmViewImage.pas</Transaction>
+    <Transaction>2013/09/12 16:48:39.749.dfm,D:\Trader\Unit1.dfm=D:\Trader\fmViewImage.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
